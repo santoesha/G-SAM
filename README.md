@@ -1,2 +1,2 @@
 # G-SAM
-TCGA scripts internship Erasmus MC
+G-SAM scripts internship Erasmus MC
